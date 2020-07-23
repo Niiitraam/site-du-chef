@@ -10151,4 +10151,11 @@ h5 {
   background-image: url(../../../git_bootstrap_les_chefs/public/images/testimonials_background.jpg);
 }
 
+.border-s5 {
+  border-radius: 10px;
+  background-color: #dd003f;
+  height: 200px;
+  margin-bottom: 50px;
+}
+
 /*# sourceMappingURL=style.css.map */
