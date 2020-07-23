@@ -10025,4 +10025,29 @@ h1 {
   right: 0px;
 }
 
+.bg-section2 {
+  background-image: url(../../../git_bootstrap_les_chefs/public/images/team_background.jpg);
+  padding-bottom: 50px;
+}
+
+.span-color1 {
+  color: white;
+}
+
+.border-color {
+  border-bottom: solid white 1px;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.border-img {
+  border-bottom: solid white 0.5px;
+}
+
+.text-white {
+  color: white;
+  text-align: center;
+}
+
 /*# sourceMappingURL=style.css.map */
