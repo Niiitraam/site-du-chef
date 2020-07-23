@@ -10128,4 +10128,27 @@ h5 {
   text-decoration: none;
 }
 
+.image-radius-50 {
+  border-radius: 50%;
+  border: solid grey 4px;
+  padding: 0;
+}
+
+.cadre {
+  border: grey 2px solid;
+  border-radius: 10px;
+}
+
+.span-color-red {
+  color: #dd003f;
+}
+
+.color-white {
+  color: white;
+}
+
+.bg-section4 {
+  background-image: url(../../../git_bootstrap_les_chefs/public/images/testimonials_background.jpg);
+}
+
 /*# sourceMappingURL=style.css.map */
