@@ -10061,20 +10061,12 @@ h1 {
   width: 70%;
 }
 
-.div-absolute {
-  position: absolute;
-}
-
 .input-radius {
   border-radius: 10px;
   margin: 10px;
   outline: none;
   background-color: white;
   height: 50px;
-}
-
-.container-absolute {
-  position: absolute;
 }
 
 .bg-book-menu {
@@ -10088,6 +10080,52 @@ h1 {
 
 .padding-0 {
   padding: 0;
+}
+
+.w-container-section2 {
+  width: 80%;
+}
+
+.img-radius {
+  border-radius: 2rem;
+  border: solid 4px grey;
+}
+
+.bg-color-red {
+  background-color: #dd003f;
+  border-radius: 5px;
+  margin-top: -15px;
+  max-width: max-content;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  color: white;
+  align-items: center;
+  margin-left: 90px;
+}
+
+.bold-text {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.badge-s3 {
+  background-color: #dd003f;
+  text-transform: uppercase;
+  font-family: none;
+  border-radius: 10rem;
+  font-size: 20px;
+  padding: 15px;
+  margin: 50px;
+}
+
+.h-badge-s3:hover {
+  background-color: white;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=style.css.map */
