@@ -9980,10 +9980,18 @@ h1 {
 }
 
 .border-b {
-  border-bottom: solid black 1px;
   display: flex;
   justify-content: center;
-  padding: 50px;
+  padding-top: 50px;
+}
+
+.p-bot-img {
+  padding-bottom: 50px;
+}
+
+.center-img {
+  display: flex;
+  justify-content: center;
 }
 
 .m-section1 {
@@ -10124,7 +10132,7 @@ h5 {
 }
 
 .h-badge-s3:hover {
-  background-color: white;
+  background-color: grey;
   text-decoration: none;
 }
 
@@ -10154,8 +10162,45 @@ h5 {
 .border-s5 {
   border-radius: 10px;
   background-color: #dd003f;
-  height: 200px;
+  height: 500px;
   margin-bottom: 50px;
+}
+
+.button-s6 {
+  background-color: #dd003f;
+  border: solid white 1px;
+  border-radius: 20px;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.flex-warp {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.taille-s6 {
+  height: 300px;
+}
+
+.h-button-s6:hover {
+  background-color: white;
+  text-decoration: none;
+  color: #dd003f;
+}
+
+.h-color-red:hover {
+  color: #dd003f;
+}
+
+.bg-s6 {
+  background-image: url(../../../git_bootstrap_les_chefs/public/images/team_background.jpg);
+}
+
+.s7 {
+  height: 100px;
+  background-color: #dd003f;
 }
 
 /*# sourceMappingURL=style.css.map */
