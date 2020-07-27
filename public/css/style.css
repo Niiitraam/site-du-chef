@@ -9972,6 +9972,20 @@ html {
   height: 20px;
 }
 
+.nowrap {
+  flex-wrap: nowrap;
+}
+
+.img-1 {
+  border-radius: 50%;
+}
+
+.color-red {
+  color: #dd003f;
+  font-weight: bold;
+  background-color: #77707260;
+}
+
 h1 {
   font-family: "Courgette", cursive;
   display: flex;
