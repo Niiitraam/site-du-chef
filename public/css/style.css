@@ -9972,6 +9972,37 @@ html {
   height: 20px;
 }
 
+.nowrap {
+  flex-wrap: nowrap;
+}
+
+.img-1 {
+  border-radius: 50%;
+}
+
+.color-red {
+  color: #dd003f;
+  font-weight: bold;
+  background-color: #77707260;
+}
+
+.color-icon {
+  color: #77707260;
+}
+
+.a-color-red:active {
+  color: #dd003f;
+  border-right: solid #dd003f;
+}
+
+.color-icon-red {
+  color: #dd003f;
+}
+
+.link-color {
+  background-color: white;
+}
+
 h1 {
   font-family: "Courgette", cursive;
   display: flex;
